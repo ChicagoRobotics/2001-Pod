@@ -5,10 +5,14 @@ Please do not share these files with anyone.  I would gladly publish the files p
 
 Please feel free to create issues related to printing the parts, and thanks for your interest.
 
+Please note that "Hull Front" has a 3mm hole so a Red 3mm LED can be inserted as HAL's eye.
+
 Suggested prints:
 
 Print in Silver: "Arm Shaft", "Headlight"
+
 Print in Black: "Window", "Thruster", "Bells"
+
 Print in White: EVERYTHING ELSE
 
 -Jamie
